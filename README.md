@@ -36,7 +36,7 @@ Never hardcode keys in `.py`/`.jsx` files or commit them to Git — always use
 ## Project structure
 
 ```
-news_v2/
+ai-news-intelligence/
 ├── backend/
 │   ├── main.py            # FastAPI app + all routes
 │   ├── news_service.py    # RSS + GNews aggregation (the main fix)
