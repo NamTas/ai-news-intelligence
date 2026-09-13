@@ -1,0 +1,17 @@
+# Environment & secrets
+.env
+*.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.db
+
+# Node / frontend
+node_modules/
+dist/
+.vite/
+
+# OS files
+.DS_Store
