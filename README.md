@@ -23,8 +23,7 @@ A full-stack app that pulls real-time news from 9+ sources, lets you generate in
 - 🛡️ **Built to not break** — every RSS fetch has its own timeout and error handling, so one dead feed can't take down the whole app; falls back gracefully if no API key is configured.
 
 ## 🖼️ Preview
-
-*(Add a screenshot or GIF of the app here — this is the first thing recruiters look at!)*
+![App Preview](https://github.com/user-attachments/assets/a67f87f9-c99a-4170-8e44-33d9dc872df3)
 
 ## 🧱 Tech Stack
 
